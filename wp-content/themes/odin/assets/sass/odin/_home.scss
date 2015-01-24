@@ -1,0 +1,233 @@
+/* ======================================================== ============================ 
+============================ TOPO ============================ ============================ 
+============================ ============================ ============================ 
+*/
+.site-title, .site-description{
+	margin-left: -1000px;
+	display: none;
+}
+.top-menu{
+	width: 100%;
+	height: 65px;
+	background-color: $verdePrincipal;
+}
+.container-logo{
+	width: 300px;
+	height: 189px;
+	background-color: $verdePrincipal;
+	@extend .box-shadow;
+}
+.logo{
+	img{
+		width: 275px;
+	}
+}
+/* ======================================================== ============================ 
+============================ MENU ============================ ============================ 
+============================ ============================ ============================ 
+*/
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+	height: 65px;
+	margin: 0;
+}
+#menu-principal{
+	padding-top: 7.5px;
+}
+.navbar-default .navbar-nav > li:first-child{
+	&:before{
+		content: '';
+	}
+}
+.navbar-default .navbar-nav > li{
+	text-transform: uppercase;
+	&:before{
+		content: '|';
+		width: 10px;
+		height: 30px;
+		color: $branco;
+		float: left;
+		margin-top: 15px;
+	}
+}
+.navbar-default .navbar-nav > li > a{
+	background-color: transparent;
+	color: $branco;
+	&:hover{
+		background-color: transparent;
+		color: $verdeSegundario;
+	}
+}
+.navbar-default .navbar-nav > .active > a{
+	background-color: transparent;
+	&:hover{
+		background-color: transparent;
+		color: $verdeSegundario;
+	}
+}
+/* ======================================================== ============================ 
+============================ BANNER ============================ ============================ 
+============================ ============================ ============================ 
+*/
+.banner{
+	width: 100%;
+	height: 600px;
+	background: url(../images/banner.jpg) no-repeat center top;
+	background-size: contain;
+}
+/* ======================================================== ============================ 
+============================ PRODUTOS ============================ =====================
+============================ ============================ ============================ 
+*/
+.container-produtos{
+	height: 250px;
+	margin-bottom: 20px;
+	.lista-produtos{
+		ul{
+			list-style: none;
+			padding: 0;
+			li{
+				a{
+					.hover-prod{
+						width: 0px;
+					    height: 153px;
+					    background: rgba(183,216,155,0.8);
+
+					    /* For Safari 3.1 to 6.0 */
+					    -webkit-transition-property: width;
+					    -webkit-transition-duration: 0.5s;
+					    -webkit-transition-timing-function: linear;
+					    -webkit-transition-delay: 0.2s;
+					    /* Standard syntax */
+					    transition-property: width;
+					    transition-duration: 0.5s;
+					    transition-timing-function: linear;
+					    transition-delay: 0.2s;
+
+						position: absolute;
+						p{
+							display: none;
+						}
+					}
+					&:hover{
+						.hover-prod{							
+							width: 165px;
+    						p{
+    							display: block;
+    							font-size: 18px;
+								color: #FFF;
+								font-weight: 400;
+								text-align: center;
+								margin-top: 65px;
+    						}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+.todos-produtos{
+	width: 100%;
+	height: 36px;
+	background-color: $verdePrincipal;
+}
+.conteudo-todos-programas{
+	line-height: 36px;
+	a{
+		p{
+			text-align: center;
+			font-weight: 600;
+			color: $branco;
+			&:after{
+				content: '';
+				width: 34px;
+				height: 34px;
+				background: url(../images/cart.png) no-repeat;
+				position: absolute;
+				margin-left: 10px;
+			}
+		}
+		&:hover{
+			text-decoration: none;
+			p{
+				color: $verdeSegundario;
+			}
+		}
+	}
+}
+/* ======================================================== ============================ 
+============================ MAPA ============================ =====================
+============================ ============================ ============================ 
+*/
+.mapa{
+	width: 100%;
+	background-color: $verdeSegundario;
+}
+.conteudo-mapa{
+	line-height: 66px;
+	header h1{
+		color: $branco;
+		text-transform: uppercase;
+		&:after{
+			content: '';
+			width: 36px;
+			height: 36px;
+			background: url(../images/map.png) no-repeat;
+			position: absolute;
+			margin-left: 10px;
+		}
+	}
+}
+.embed-mapa{
+	height: 310px;
+}
+/* ======================================================== ============================ 
+============================ FALE CONOSCO ============================ =====================
+============================ ============================ ============================ 
+*/
+.fale-conosco-home{
+	width: 100%;
+	height: 497px;
+	background-color: $verdeSegundario;
+}
+.conteudo-fale{
+	header h1{
+		color: $branco;
+		text-transform: uppercase;
+		text-align: center;
+		&:before{
+			content: '';
+			width: 300px;
+			height: 2px;
+			background-color: $verdeBorda;
+			position: absolute;
+			bottom: 0;
+			margin-left: -45px;
+		}
+	}
+}
+.text-expli{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	color: #fff;
+	font-size: 12px;
+	font-weight: lighter;
+	margin-left: -14px;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

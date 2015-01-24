@@ -16,6 +16,37 @@
 /**
  * Sets content width.
  */
+//ACF CROP IMAGE
+add_action('advanced-custom-fields/register_fields', 'my_crop');
+
+function my_crop()
+{
+    include_once('inc/acf-image-crop/acf-image-crop.php');
+}
+add_image_size( 'imagem-produto', 165, 153, true );
+
+//LIMITE DE LETRAS
+function trim_letras( $conteudo, $caracteres ) {
+	$texto = wp_trim_words( $conteudo , $caracteres );
+	// Só realiza ela caso a string possua mais caracteres do que o delimitado
+	if( mb_strlen( $texto ) > $caracteres ){
+		$corte_texto = trim ( mb_substr( $texto, 0, $caracteres, 'UTF-8') );
+		$exp_texto = explode(" ", $corte_texto);
+		$palavra = '';
+		//Loop remove a última palavra do resultado final, pois ela vem cortada e pode vir comprometida se escrita com caracteres especiais
+		for ($i=0; $i < count( $exp_texto ) -1 ; $i++) {
+		    $palavra .= $exp_texto[$i] . ' ';
+		}
+		$final = trim( $palavra );
+		$final .= "...";
+	}
+	else {
+		$final = $texto;
+	}
+
+	return $final;
+}
+
 if ( ! isset( $content_width ) ) {
 	$content_width = 600;
 }
@@ -288,3 +319,8 @@ require_once get_template_directory() . '/inc/plugins-support.php';
  * Custom template tags.
  */
 require_once get_template_directory() . '/inc/template-tags.php';
+
+
+
+
+

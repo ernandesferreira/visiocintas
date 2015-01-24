@@ -64,6 +64,10 @@ Description: Odin main stylesheet.
 
 // Odin Core Styles
 @import "odin/core";
+@import "odin/home";
+@import "odin/variaveis";
+@import "odin/padrao";
+@import "odin/footer";
 
 // Odin CSS Helpers
 @import "utilities/helpers";
