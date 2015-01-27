@@ -17,7 +17,7 @@
  */
 
 get_header(); ?>
-
+<div class="container">
 	<section id="primary" class="<?php echo odin_classes_page_sidebar(); ?>">
 		<main id="main" class="site-main" role="main">
 
@@ -54,7 +54,7 @@ get_header(); ?>
 			?>
 		</main><!-- #main -->
 	</section><!-- #primary -->
-
+</div>
 <?php
 get_sidebar();
 get_footer();

@@ -13,7 +13,25 @@
 	
 
 		<footer id="footer" role="contentinfo">
-			<section class="fale-conosco-home">
+		<section class="mapa">
+		<div class="container">
+				<div id="main" class="site-main row">
+					<div id="primary" class="col-xs-12 col-md-12">
+						<main id="main" class="site-main" role="main">
+							<div class="conteudo-mapa">
+								<header>
+									<h1> Nossa Localização </h1>
+								</header>
+							</div>
+						</main>
+					</div>
+				</div>
+			</div>
+			<div class="embed-mapa">
+				<?php echo do_shortcode('[put_wpgm id=1]'); ?>
+			</div>				
+	</section>
+			<section name="contato" id="contato" class="fale-conosco-home">
 				<div class="container">
 						<div id="main" class="site-main row">
 							<div id="primary" class="col-xs-12 col-md-12">
@@ -25,6 +43,12 @@
 									</div>
 									<div class="text-expli">
 										<p> Entre em contato conosco, e solicite um orçamento! </p>
+									</div>
+									<div class="">
+									<div class="formulario col-md-6 col-md-offset-3">
+										<?php
+											echo do_shortcode('[gravityform id="1" name="Fale Conosco" title="false" description="false" ajax="true"]');
+										?>
 									</div>
 								</main>
 							</div>

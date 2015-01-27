@@ -17,3 +17,42 @@ h1{
 ul{
 	padding: 0;
 }
+.breadcrumbs{
+	margin-top: 40px;
+	span{
+		a{
+			color: rgba(7, 168, 3, 0.25);
+			font-size: 15px;
+			font-weight: 600;
+			&:hover{
+				font-weight: 800;
+				text-decoration: none;
+			}
+		}
+	}
+	.next-brean{
+		margin-left: 10px;
+		margin-right: 10px;
+		color: rgba(7, 168, 3, 0.25);
+		text-align: center;
+		font-size: 15px;
+		font-weight: 600;
+	}
+}
+.transition{
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+	-ms-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+}
+.shadow{
+	text-shadow: 5px 0px 9px rgba(255, 255, 255, 1);
+}
+.page-single{
+	margin-bottom: 40px;
+}
+.entry-title{
+	a{
+		color: $verdeSegundario;
+	}
+}

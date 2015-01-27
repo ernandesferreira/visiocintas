@@ -1,0 +1,38 @@
+/* ======================================================== ============================ 
+============================ PRODUTO ============================ ============================ 
+============================ ============================ ============================ 
+*/
+.single-produto{
+	header{
+		margin-top: 45px;
+		margin-bottom: 45px;
+	}
+}
+.imagem-single{
+	margin-bottom: 40px;
+	padding: 0;
+}
+.descricao-single{
+	float: left;
+	font-size: 12px;
+	text-indent: 20px;
+	margin-bottom: 40px;
+}
+.lista-categorias{
+	margin-bottom: 40px;
+}
+.imagem-produto{
+	img{
+		width: 186px;
+	}
+}
+.content-single{
+	.btn-success{
+		a{
+			color: $branco;
+			&:hover{
+				text-decoration: none;
+			}
+		}
+	}
+}

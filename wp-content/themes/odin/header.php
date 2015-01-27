@@ -28,6 +28,7 @@
 	<script src="<?php echo get_template_directory_uri(); ?>/assets/js/html5.js"></script>
 	<![endif]-->
 	<?php wp_head(); ?>
+
 </head>
 
 <body <?php body_class(); ?>>
@@ -48,6 +49,7 @@
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php echo esc_url( $header_image ); ?>" height="<?php esc_attr_e( $header_image->height ); ?>" width="<?php esc_attr_e( $header_image->width ); ?>" alt="" /></a>
 			<?php endif; ?>
 	</div>
+	<?php if( is_home() ){ ?>
 	<div class="top-menu">
 		<div class="container">
 			<div class="col-xs-1 col-md-1"></div>
@@ -91,5 +93,50 @@
 			</div>
 		</div>
 	</div>
+	<?php }else{ ?>
+	<div class="top-menu">
+		<div class="container">
+			<div class="col-xs-1 col-md-1"></div>
+			<div class="col-xs-2 col-md-2 container-logo2">
+				<div class="logo2">
+					<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png">
+				</div>
+			</div>
+			<div class="col-xs-9 col-md-9 menu-topo">
+				<nav id="main-navigation" class="navbar navbar-default" role="navigation">
+					<a class="assistive-text" href="#content" title="<?php esc_attr_e( 'Skip to content', 'odin' ); ?>"><?php _e( 'Skip to content', 'odin' ); ?></a>
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-navigation">
+						<span class="sr-only"><?php _e( 'Toggle navigation', 'odin' ); ?></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<?php /*
+
+						<a class="navbar-brand" href="<?php echo home_url(); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
+
+						*/ ?>
+					</div>
+
+					<div class="collapse navbar-collapse navbar-main-navigation">
+						<?php
+							wp_nav_menu(
+								array(
+									'theme_location' => 'main-menu',
+									'depth'          => 2,
+									'container'      => false,
+									'menu_class'     => 'nav navbar-nav',
+									'fallback_cb'    => 'Odin_Bootstrap_Nav_Walker::fallback',
+									'walker'         => new Odin_Bootstrap_Nav_Walker()
+								)
+							);
+						?>
+					</div><!-- .navbar-collapse -->
+				</nav><!-- #main-menu -->
+			</div>
+		</div>
+	</div>
+	<?php } ?>
 		</header><!-- #header -->
 		

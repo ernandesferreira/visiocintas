@@ -14,6 +14,7 @@
 							<?php
 								$the_query = new WP_Query( array( 'post_type' => 'home' ) );
 								if ( $the_query->have_posts() ) {
+
 									$post_query = $the_query->posts;
 									$id_post = $post_query[0]->ID;
 									$produtos = get_field('ordem-produtos', $id_post);							
@@ -56,24 +57,6 @@
 				</div>
 			</div>
 		</div>
-	</section>
-	<section class="mapa">
-		<div class="container">
-				<div id="main" class="site-main row">
-					<div id="primary" class="col-xs-12 col-md-12">
-						<main id="main" class="site-main" role="main">
-							<div class="conteudo-mapa">
-								<header>
-									<h1> Nossa Localização </h1>
-								</header>
-							</div>
-						</main>
-					</div>
-				</div>
-			</div>
-			<div class="embed-mapa">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3677.86425958553!2d-43.418498199999995!3d-22.8074931!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99614d1e9c1a2b%3A0x14864660e09a9f!2sAv.+Get%C3%BAlio+Vargas%2C+1650+-+Centro%2C+Nil%C3%B3polis+-+RJ%2C+26510-016!5e0!3m2!1spt-BR!2sbr!4v1422065423503" width="1265" height="310" frameborder="0" style="border:0"></iframe>
-			</div>				
 	</section>
 	
 <?php get_footer();

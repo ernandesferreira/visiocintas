@@ -18,7 +18,43 @@
 		}
 	}
 }
-
+.formulario{
+	margin-top: 40px;
+}
+.input_text{
+	width: 40%;
+	float: left;
+	label{
+		color: $branco;
+	}
+	.ginput_container{
+		input[type='text']{
+			background-color: $verdeHover;
+			border-color: transparent;
+		}
+	}
+}
+.input_textarea{
+	float: right;
+	margin-top: -184px;
+	margin-right: -20px!important;
+	label{
+		color: $branco;
+	}
+	.ginput_container{
+		textarea{
+			background-color: $verdeHover;
+			border-color: transparent;
+		}
+	}
+}
+.gform_footer{
+	input[type="submit"]{
+		color: $verdeFooter;
+		background-color: $verdeHover;
+		border-color: transparent;
+	}
+}
 
 
 

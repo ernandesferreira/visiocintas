@@ -1,0 +1,128 @@
+/* ======================================================== ============================ 
+============================ PRODUTO ============================ ============================ 
+============================ ============================ ============================ 
+*/
+.view-prod{
+	header{
+		margin-bottom: 40px;
+	}
+}
+.lista-prod{
+	padding-left: 0;
+	margin-bottom: 40px;
+	ul{
+		list-style: none;
+		li{
+			padding: 0;
+			margin-right: 60px;
+			&:nth-child(3n+0){
+				margin-right: 0;
+			}
+			a{
+				.item-produto{
+					width: 186px;
+					.imagem-produto{
+						width: 186px;
+						height: 135px;
+						.mascara-prod{
+							@extend .transition;
+							position: absolute;
+						}
+					}
+					.content-produto{
+						h3{
+							font-size: 14px;
+							margin-top: 45px;
+							text-align: center;
+							padding: 5px;
+						}
+					}
+				}
+				&:hover{
+					text-decoration: none;
+					.item-produto{
+						background-color: $verdePrincipal;
+						.imagem-produto{
+							.mascara-prod{
+								width: 186px;
+								height: 172px;
+								background-color: rgba(7, 168, 3, 0.7);
+								&:before{
+									content: 'Saiba Mais';
+									font-size: 17px;
+									color: #fff;
+									top: 50%;
+									position: absolute;
+									left: 50%;
+									margin-left: -48.5px;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+/* ======================================================== ============================ 
+============================ PAGE NAVE ============================ ============================ 
+============================ ============================ ============================ 
+*/
+.pagination-wrap{
+	ul{
+		li{
+			a.page-numbers{
+				color: $verdePrincipal;
+			}
+			span.page-numbers{
+
+			}
+			span.current{
+				background-color: $verdePrincipal;
+				border-color: $verdeSegundario;
+			}
+		}
+	}
+}
+/* ======================================================== ============================ 
+============================  CATEGORIAS ============================ ============================ 
+============================ ============================ ============================ 
+*/
+.lista-categorias{
+	border: 1px solid #e0e0e0;
+	padding: 20px;
+}
+.widget_categories{
+	ul{
+		list-style: none;
+		li{
+			&:nth-child(odd){
+				background-color: rgba(7, 168, 3, 0.4);
+				padding: 10px;
+				a{
+					color: $branco;
+				}
+				&:hover{
+					background-color: $verdeSegundario;
+					a{
+						text-decoration: none;
+					}
+				}
+			}
+			&:nth-child(even){
+				background-color: rgba(152, 199, 113, 0.2);
+				padding: 10px;
+				a{
+					color: $verdePrincipal;
+				}
+				&:hover{
+					background-color: $verdeBorda;
+					a{
+						text-decoration: none;
+					}
+				}
+			}
+		}
+	}
+}
+

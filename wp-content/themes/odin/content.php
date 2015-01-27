@@ -8,7 +8,7 @@
  * @since 2.2.0
  */
 ?>
-
+<div class="container">
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
 		<?php
@@ -54,3 +54,4 @@
 		<?php endif; ?>
 	</footer>
 </article><!-- #post-## -->
+</div>
