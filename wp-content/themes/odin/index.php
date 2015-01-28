@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 	<div class="banner">
+		<?php echo do_shortcode('[rev_slider home]'); ?>
 	</div>
 	<section class="produtos">
 		<div class="container">
