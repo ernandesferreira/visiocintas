@@ -29,7 +29,7 @@
 	<title>Visio Cintas</title>
 	<link>http://visiocintas.local.com.br</link>
 	<description>Só mais um site WordPress</description>
-	<pubDate>Tue, 27 Jan 2015 02:57:52 +0000</pubDate>
+	<pubDate>Thu, 29 Jan 2015 09:40:39 +0000</pubDate>
 	<language>pt-BR</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://visiocintas.local.com.br</wp:base_site_url>
@@ -1091,213 +1091,6 @@ Como um novo usuário do WordPress, você deve ir até o <a href="http://visioci
 		</wp:postmeta>
 	</item>
 	<item>
-				<title>Assento ortopedico-pro-coluna</title>
-		<link>http://visiocintas.local.com.br/produtos/assento-ortopedico-pro-coluna/</link>
-		<pubDate>Sat, 24 Jan 2015 00:58:00 +0000</pubDate>
-		<dc:creator><![CDATA[visiocintas]]></dc:creator>
-		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=14</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
-
-Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date>2015-01-24 00:58:00</wp:post_date>
-		<wp:post_date_gmt>2015-01-24 00:58:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>assento-ortopedico-pro-coluna</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>produtos</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="assento"><![CDATA[Assento]]></category>
-		<category domain="category" nicename="ortopedico"><![CDATA[Ortopédico]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[{"original_image":"15","cropped_image":17}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-				<title>Cadeira de Rodas Freedom</title>
-		<link>http://visiocintas.local.com.br/produtos/cadeira-de-rodas-freedom/</link>
-		<pubDate>Sat, 24 Jan 2015 00:59:52 +0000</pubDate>
-		<dc:creator><![CDATA[visiocintas]]></dc:creator>
-		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
-
-Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date>2015-01-24 00:59:52</wp:post_date>
-		<wp:post_date_gmt>2015-01-24 00:59:52</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>cadeira-de-rodas-freedom</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>produtos</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="cadeiras"><![CDATA[Cadeiras]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[{"original_image":"19","cropped_image":22}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-				<title>Bota ortopédica cano longo</title>
-		<link>http://visiocintas.local.com.br/produtos/bota-ortopedica-cano-longo/</link>
-		<pubDate>Sat, 24 Jan 2015 01:00:53 +0000</pubDate>
-		<dc:creator><![CDATA[visiocintas]]></dc:creator>
-		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=23</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
-
-Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date>2015-01-24 01:00:53</wp:post_date>
-		<wp:post_date_gmt>2015-01-24 01:00:53</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>bota-ortopedica-cano-longo</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>produtos</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="botas"><![CDATA[Botas]]></category>
-		<category domain="category" nicename="ortopedico"><![CDATA[Ortopédico]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[{"original_image":"24","cropped_image":26}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-				<title>kit academico</title>
-		<link>http://visiocintas.local.com.br/produtos/kit-academico/</link>
-		<pubDate>Sat, 24 Jan 2015 01:01:50 +0000</pubDate>
-		<dc:creator><![CDATA[visiocintas]]></dc:creator>
-		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=27</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
-
-Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date>2015-01-24 01:01:50</wp:post_date>
-		<wp:post_date_gmt>2015-01-24 01:01:50</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>kit-academico</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>produtos</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="kits"><![CDATA[Kits]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[28]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[{"original_image":"28","cropped_image":30}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-				<title>Kit Acadmico BD</title>
-		<link>http://visiocintas.local.com.br/produtos/kit-acadmico-bd/</link>
-		<pubDate>Sat, 24 Jan 2015 01:02:56 +0000</pubDate>
-		<dc:creator><![CDATA[visiocintas]]></dc:creator>
-		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=31</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
-
-Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date>2015-01-24 01:02:56</wp:post_date>
-		<wp:post_date_gmt>2015-01-24 01:02:56</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>kit-acadmico-bd</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>produtos</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="kits"><![CDATA[Kits]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[{"original_image":"32","cropped_image":34}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_imagem-produto</wp:meta_key>
-			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 				<title>Home</title>
 		<link>http://visiocintas.local.com.br/home/home/</link>
 		<pubDate>Sat, 24 Jan 2015 01:28:02 +0000</pubDate>
@@ -1582,6 +1375,368 @@ Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rut
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1632;s:6:"height";i:1224;s:4:"file";s:19:"2015/01/image41.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"image41-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"image41-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"image41-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"imagem-produto";a:4:{s:4:"file";s:19:"image41-165x153.jpg";s:5:"width";i:165;s:6:"height";i:153;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.399999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:8:"iPhone 5";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1422008464;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.12";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:15:"0.0166666666667";s:5:"title";s:0:"";s:11:"orientation";i:3;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>linha</title>
+		<link>http://visiocintas.local.com.br/?attachment_id=64</link>
+		<pubDate>Wed, 28 Jan 2015 21:52:29 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/wp-content/uploads/2015/01/linha.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date>2015-01-28 21:52:29</wp:post_date>
+		<wp:post_date_gmt>2015-01-28 21:52:29</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>linha</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://visiocintas.local.com.br/wp-content/uploads/2015/01/linha.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/01/linha.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:628;s:6:"height";i:262;s:4:"file";s:17:"2015/01/linha.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"linha-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"linha-300x125.png";s:5:"width";i:300;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";}s:14:"imagem-produto";a:4:{s:4:"file";s:17:"linha-165x153.png";s:5:"width";i:165;s:6:"height";i:153;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>cinta</title>
+		<link>http://visiocintas.local.com.br/?attachment_id=65</link>
+		<pubDate>Wed, 28 Jan 2015 21:53:08 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/wp-content/uploads/2015/01/cinta.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date>2015-01-28 21:53:08</wp:post_date>
+		<wp:post_date_gmt>2015-01-28 21:53:08</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cinta</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://visiocintas.local.com.br/wp-content/uploads/2015/01/cinta.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/01/cinta.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:600;s:4:"file";s:17:"2015/01/cinta.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"cinta-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"cinta-200x300.png";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"imagem-produto";a:4:{s:4:"file";s:17:"cinta-165x153.png";s:5:"width";i:165;s:6:"height";i:153;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>texto</title>
+		<link>http://visiocintas.local.com.br/?attachment_id=66</link>
+		<pubDate>Wed, 28 Jan 2015 21:53:48 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/wp-content/uploads/2015/01/texto.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date>2015-01-28 21:53:48</wp:post_date>
+		<wp:post_date_gmt>2015-01-28 21:53:48</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>texto</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://visiocintas.local.com.br/wp-content/uploads/2015/01/texto.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/01/texto.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:720;s:6:"height";i:90;s:4:"file";s:17:"2015/01/texto.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:16:"texto-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:16:"texto-300x37.png";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:9:"image/png";}s:14:"imagem-produto";a:4:{s:4:"file";s:16:"texto-165x90.png";s:5:"width";i:165;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>prod</title>
+		<link>http://visiocintas.local.com.br/?attachment_id=67</link>
+		<pubDate>Wed, 28 Jan 2015 22:15:31 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/wp-content/uploads/2015/01/prod.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date>2015-01-28 22:15:31</wp:post_date>
+		<wp:post_date_gmt>2015-01-28 22:15:31</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>prod</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://visiocintas.local.com.br/wp-content/uploads/2015/01/prod.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/01/prod.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:598;s:6:"height";i:598;s:4:"file";s:16:"2015/01/prod.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:16:"prod-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:16:"prod-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"imagem-produto";a:4:{s:4:"file";s:16:"prod-165x153.png";s:5:"width";i:165;s:6:"height";i:153;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>chamada</title>
+		<link>http://visiocintas.local.com.br/?attachment_id=68</link>
+		<pubDate>Wed, 28 Jan 2015 22:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/wp-content/uploads/2015/01/chamada.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>68</wp:post_id>
+		<wp:post_date>2015-01-28 22:16:41</wp:post_date>
+		<wp:post_date_gmt>2015-01-28 22:16:41</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>chamada</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://visiocintas.local.com.br/wp-content/uploads/2015/01/chamada.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/01/chamada.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:595;s:6:"height";i:272;s:4:"file";s:19:"2015/01/chamada.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"chamada-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:19:"chamada-300x137.png";s:5:"width";i:300;s:6:"height";i:137;s:9:"mime-type";s:9:"image/png";}s:14:"imagem-produto";a:4:{s:4:"file";s:19:"chamada-165x153.png";s:5:"width";i:165;s:6:"height";i:153;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>Assento ortopedico-pro-coluna</title>
+		<link>http://visiocintas.local.com.br/produtos/assento-ortopedico-pro-coluna/</link>
+		<pubDate>Sat, 24 Jan 2015 00:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=14</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
+
+Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date>2015-01-24 00:58:00</wp:post_date>
+		<wp:post_date_gmt>2015-01-24 00:58:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>assento-ortopedico-pro-coluna</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>produtos</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="assento"><![CDATA[Assento]]></category>
+		<category domain="category" nicename="ortopedico"><![CDATA[Ortopédico]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[{"original_image":"15","cropped_image":17}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>Cadeira de Rodas Freedom</title>
+		<link>http://visiocintas.local.com.br/produtos/cadeira-de-rodas-freedom/</link>
+		<pubDate>Sat, 24 Jan 2015 00:59:52 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
+
+Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date>2015-01-24 00:59:52</wp:post_date>
+		<wp:post_date_gmt>2015-01-24 00:59:52</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cadeira-de-rodas-freedom</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>produtos</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="cadeiras"><![CDATA[Cadeiras]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[{"original_image":"19","cropped_image":22}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>Bota ortopédica cano longo</title>
+		<link>http://visiocintas.local.com.br/produtos/bota-ortopedica-cano-longo/</link>
+		<pubDate>Sat, 24 Jan 2015 01:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
+
+Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date>2015-01-24 01:00:53</wp:post_date>
+		<wp:post_date_gmt>2015-01-24 01:00:53</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bota-ortopedica-cano-longo</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>produtos</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="botas"><![CDATA[Botas]]></category>
+		<category domain="category" nicename="ortopedico"><![CDATA[Ortopédico]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[{"original_image":"24","cropped_image":26}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>kit academico</title>
+		<link>http://visiocintas.local.com.br/produtos/kit-academico/</link>
+		<pubDate>Sat, 24 Jan 2015 01:01:50 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
+
+Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date>2015-01-24 01:01:50</wp:post_date>
+		<wp:post_date_gmt>2015-01-24 01:01:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>kit-academico</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>produtos</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="kits"><![CDATA[Kits]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[{"original_image":"28","cropped_image":30}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+				<title>Kit Acadmico BD</title>
+		<link>http://visiocintas.local.com.br/produtos/kit-acadmico-bd/</link>
+		<pubDate>Sat, 24 Jan 2015 01:02:56 +0000</pubDate>
+		<dc:creator><![CDATA[visiocintas]]></dc:creator>
+		<guid isPermaLink="false">http://visiocintas.local.com.br/?post_type=produtos&#038;p=31</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non ipsum libero. Integer aliquet aliquet tempor. In blandit tortor in magna vehicula consectetur. Etiam consectetur nunc in erat dapibus egestas. Nam rhoncus purus vitae libero aliquam volutpat. Praesent luctus venenatis posuere. Morbi nec metus auctor, consectetur mauris ut, viverra quam. Nulla tempor nisl sed ornare congue. Cras ut arcu nunc. Aenean lacus ligula, feugiat vel mollis sed, blandit in dolor. Quisque a risus id felis ultrices suscipit. Phasellus commodo, risus eu tristique iaculis, urna neque condimentum nunc, in ultricies magna nisl quis nulla.
+
+Suspendisse consequat dictum orci. Etiam eleifend justo a mi condimentum, ut rutrum purus euismod. Pellentesque placerat purus a tortor feugiat, sit amet ullamcorper lorem vehicula. Nam luctus ante neque, eu sagittis ante ultrices ut. Nullam dapibus nibh ut ex sodales tempor. Pellentesque nec hendrerit tortor. Etiam gravida, ligula vitae dictum dignissim, elit justo commodo purus, nec tincidunt metus nulla pharetra mi. Curabitur eu ultricies turpis, id facilisis dolor. In nec urna sodales ante malesuada fringilla varius eget mi. Curabitur volutpat tortor nec lorem tristique ornare. Mauris at eros varius, viverra odio ut, ultrices justo. Cras rutrum est sed risus ornare pellentesque.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date>2015-01-24 01:02:56</wp:post_date>
+		<wp:post_date_gmt>2015-01-24 01:02:56</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>kit-acadmico-bd</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>produtos</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="kits"><![CDATA[Kits]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[{"original_image":"32","cropped_image":34}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_imagem-produto</wp:meta_key>
+			<wp:meta_value><![CDATA[field_54c2ec143d7b5]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
