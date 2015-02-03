@@ -15,15 +15,17 @@
 		<footer id="footer" role="contentinfo">
 		<section class="mapa">
 		<div class="container">
-				<div id="main" class="site-main row">
-					<div id="primary" class="col-xs-12 col-md-12">
-						<main id="main" class="site-main" role="main">
-							<div class="conteudo-mapa">
-								<header>
-									<h1> Nossa Localização </h1>
-								</header>
-							</div>
-						</main>
+				<div class="row">
+					<div id="main" class="site-main row">
+						<div id="primary" class="col-xs-12 col-md-12">
+							<main id="main" class="site-main" role="main">
+								<div class="conteudo-mapa">
+									<header>
+										<h1> Nossa Localização </h1>
+									</header>
+								</div>
+							</main>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -50,6 +52,7 @@
 											echo do_shortcode('[gravityform id="1" name="Fale Conosco" title="false" description="false" ajax="true"]');
 										?>
 									</div>
+<<<<<<< HEAD
 									<div class="row">
 										<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 											<div class="tel" style="  font-size: 35px;  color: #fff;  font-weight: 600;  margin-bottom: 10px;">
@@ -57,9 +60,17 @@
 											</div>
 										</div>
 									</div>
+=======
+										
+>>>>>>> 80f755c8ccd847f152147640359d06519dd51214
 								</main>
 							</div>
 						</div>
+						<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+											<div class="tel" style="">
+												TEL.: (21) 3761-7272
+											</div>
+										</div>
 					</div>
 			</section>
 			<div class="site-info">

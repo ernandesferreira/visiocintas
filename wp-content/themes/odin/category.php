@@ -43,7 +43,7 @@ get_header(); ?>
                	if( $prod_loop->have_posts() ){
                	//echo '<pre>' . print_r( $prod_loop, true ) . '</pre>';
                ?>
-               <div class="lista-prod col-lg-8 col-md-8 col-xs-8 col-sm-8">
+               <div class="lista-prod col-lg-8 col-md-8 col-xs-12 col-sm-12">
 					<ul>
 			 			<?php 
 			 				while ( $prod_loop->have_posts() ) {
@@ -52,12 +52,12 @@ get_header(); ?>
 								$title_produto = get_the_title();
 								$imagem = get_field('imagem-produto', $id);			 				
 			 			?>
-			 				<li class="col-lg-3 col-md-3 col-xs-3 col-sm-12">
+			 				<li class="col-lg-3 col-md-3 col-xs-5 col-sm-4">
 								<a href="<?php echo get_permalink($id); ?>">
 									<div class="item-produto">
 										<div class="imagem-produto">
 										<div class="mascara-prod"></div>
-											<img src="<?php echo $imagem; ?>" width="181">
+											<img class="img-responsive" src="<?php echo $imagem; ?>" width="181">
 										</div>
 										<div class="content-produto">
 											<h3> <?php echo $title_produto; ?> </h3>
@@ -69,11 +69,11 @@ get_header(); ?>
 	 				</ul>
  				</div>
  				<?php }else{ ?>
- 				<div class="lista-prod col-lg-8 col-md-8 col-xs-8 col-sm-8">
+ 				<div class="lista-prod col-lg-8 col-md-8 col-xs-12 col-sm-12">
  					<h3> Não temos produtos com essa Categoria </h3>
  				</div>
  				<?php } ?>
- 				<div class="lista-categorias col-lg-4 col-md-4 col-xs-4 col-sm-4">
+ 				<div class="lista-categorias col-lg-4 col-md-4 col-xs-12 col-sm-12">
 						<?php get_sidebar(); ?>
 				</div>
  

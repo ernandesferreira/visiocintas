@@ -52,13 +52,13 @@
 	<?php if( is_home() ){ ?>
 	<div class="top-menu">
 		<div class="container">
-			<div class="col-xs-1 col-md-1"></div>
-			<div class="col-xs-4 col-md-4 container-logo">
+			<div class="col-xs-1 col-md-1 hidden-sm hidden-xs"></div>
+			<div class="col-xs-4 col-md-4 container-logo hidden-sm hidden-xs">
 				<div class="logo">
 					<a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"></a>
 				</div>
 			</div>
-			<div class="col-xs-7 col-md-7 menu-topo">
+			<div class="col-lg-7 col-md-7 col-xs-12 visible-xs-* visible-sm-* menu-topo">
 				<nav id="main-navigation" class="navbar navbar-default" role="navigation">
 					<a class="assistive-text" href="#content" title="<?php esc_attr_e( 'Skip to content', 'odin' ); ?>"><?php _e( 'Skip to content', 'odin' ); ?></a>
 					<div class="navbar-header">
@@ -96,13 +96,13 @@
 	<?php }else{ ?>
 	<div class="top-menu menu-fase2">
 		<div class="container">
-			<div class="col-xs-1 col-md-1"></div>
-			<div class="col-xs-2 col-md-2 container-logo2">
+			<div class="col-xs-1 col-md-1 hidden-sm hidden-xs"></div>
+			<div class="col-xs-2 col-md-2 hidden-sm hidden-xs container-logo2">
 				<div class="logo2">
 					<a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"></a>
 				</div>
 			</div>
-			<div class="col-xs-9 col-md-9 menu-topo">
+			<div class="col-xs-9 col-md-9 visible-sm-* menu-topo">
 				<nav id="main-navigation" class="navbar navbar-default" role="navigation">
 					<a class="assistive-text" href="#content" title="<?php esc_attr_e( 'Skip to content', 'odin' ); ?>"><?php _e( 'Skip to content', 'odin' ); ?></a>
 					<div class="navbar-header">

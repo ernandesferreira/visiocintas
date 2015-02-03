@@ -20,6 +20,7 @@
 									$id_post = $post_query[0]->ID;
 									$produtos = get_field('ordem-produtos', $id_post);							
 							?> 
+							<div class="row">
 								<ul>
 								<?php 
 									foreach ($produtos as $produto) {
@@ -30,14 +31,15 @@
 										$img_produto = get_field('imagem-produto', $id_produto);
 										
 								?>
-									<li class="col-xs-2 col-md-2">
+									<li class="col-lg-2 col-md-2 col-xs-4 col-sm-2">
 										<a href="<?php echo $link_produto; ?>">
 											<div class="hover-prod"><p> <?php echo trim_letras( $title_produto, 20 ); ?> </p></div> 
-											<img src="<?php echo $img_produto; ?>"> 
+											<img class="img-responsive" src="<?php echo $img_produto; ?>"> 
 										</a>
 									</li>
 									<?php } ?>
 								</ul>
+							</div>
 								<?php } wp_reset_query(); ?>
 							</article>
 						</div>
@@ -47,13 +49,15 @@
 		</div>
 		<div class="todos-produtos">
 			<div class="container">
-				<div id="main" class="site-main row">
-					<div id="primary" class="col-xs-12 col-md-12">
-						<main id="main" class="site-main" role="main">
-							<div class="conteudo-todos-programas">
-								<a href="/produtos"><p> Ver todos os Produtos </p></a>
-							</div>
-						</main>
+				<div class="row">
+					<div id="main" class="site-main row">
+						<div id="primary" class="col-xs-12 col-md-12">
+							<main id="main" class="site-main" role="main">
+								<div class="conteudo-todos-programas">
+									<a href="/produtos"><p> Ver todos os Produtos </p></a>
+								</div>
+							</main>
+						</div>
 					</div>
 				</div>
 			</div>
