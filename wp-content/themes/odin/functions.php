@@ -19,6 +19,96 @@
 //ACF CROP IMAGE
 add_action('advanced-custom-fields/register_fields', 'my_crop');
 
+
+
+/* ======================================================== ============================ 
+============================ CPTS ============================ ============================ 
+============================ ============================ ============================ 
+*/
+add_action('init', 'cptui_register_my_cpt_home');
+add_action('init', 'cptui_register_my_cpt_produtos');
+
+function cptui_register_my_cpt_home() {
+	register_post_type('home', array(
+	'label' => 'Home',
+	'description' => '',
+	'public' => true,
+	'show_ui' => true,
+	'show_in_menu' => true,
+	'capability_type' => 'post',
+	'map_meta_cap' => true,
+	'hierarchical' => false,
+	'rewrite' => array('slug' => 'home', 'with_front' => true),
+	'query_var' => true,
+	'menu_position' => 1,
+	'menu_icon' => 'dashicons-menu',
+	'supports' => array('title'),
+		'labels' => array (
+		  'name' => 'Home',
+		  'singular_name' => 'Home',
+		  'menu_name' => 'Home',
+		  'add_new' => 'Add Home',
+		  'add_new_item' => 'Add New Home',
+		  'edit' => 'Edit',
+		  'edit_item' => 'Edit Home',
+		  'new_item' => 'New Home',
+		  'view' => 'View Home',
+		  'view_item' => 'View Home',
+		  'search_items' => 'Search Home',
+		  'not_found' => 'No Home Found',
+		  'not_found_in_trash' => 'No Home Found in Trash',
+		  'parent' => 'Parent Home',
+		)
+	)); 
+}
+
+
+function cptui_register_my_cpt_produtos() {
+	register_post_type('produtos', array(
+	'label' => 'Produtos',
+	'description' => '',
+	'public' => true,
+	'show_ui' => true,
+	'show_in_menu' => true,
+	'capability_type' => 'post',
+	'map_meta_cap' => true,
+	'hierarchical' => false,
+	'rewrite' => array('slug' => 'produtos', 'with_front' => true),
+	'query_var' => true,
+	'has_archive' => true,
+	'menu_icon' => 'dashicons-cart',
+	'supports' => array('title','editor','comments','thumbnail'),
+	'taxonomies' => array('category'),
+		'labels' => array (
+		  'name' => 'Produtos',
+		  'singular_name' => 'Produto',
+		  'menu_name' => 'Produtos',
+		  'add_new' => 'Adicionar Novo',
+		  'add_new_item' => 'Adicionar Novo Produto',
+		  'edit' => 'Editar',
+		  'edit_item' => 'Editar Produto',
+		  'new_item' => 'Novo Produto',
+		  'view' => 'Ver Produto',
+		  'view_item' => 'Ver Produto',
+		  'search_items' => 'Buscar Produto',
+		  'not_found' => 'Produto Não Encontrado',
+		  'not_found_in_trash' => 'Nenhum Produto encontrado no lixo',
+		  'parent' => 'Produto Pai',
+		)
+	) ); 
+}
+
+
+
+
+
+
+/* ======================================================== ============================ 
+============================ FIM CPTS ============================ ============================ 
+============================ ============================ ============================ 
+*/
+
+
 function my_crop()
 {
     include_once('inc/acf-image-crop/acf-image-crop.php');

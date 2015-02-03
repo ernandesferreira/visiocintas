@@ -10,7 +10,7 @@
 
 get_header(); ?>
 <div class="container">
-	<div id="primary" class="<?php echo odin_classes_page_sidebar(); ?>">
+	<div id="primary" class="col-lg-12 col-md-12 col-xs-12 col-sm-12 content-images" style="margin-top:100px;">
 		<main id="main" class="site-main" role="main">
 
 			<?php while ( have_posts() ) : the_post(); ?>

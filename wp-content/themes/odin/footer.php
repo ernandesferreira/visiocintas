@@ -50,6 +50,13 @@
 											echo do_shortcode('[gravityform id="1" name="Fale Conosco" title="false" description="false" ajax="true"]');
 										?>
 									</div>
+									<div class="row">
+										<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+											<div class="tel" style="  font-size: 35px;  color: #fff;  font-weight: 600;  margin-bottom: 10px;">
+												TEL.: (21) 3761-7272
+											</div>
+										</div>
+									</div>
 								</main>
 							</div>
 						</div>
@@ -58,8 +65,7 @@
 			<div class="site-info">
 				<span class="text-footer">&copy; 
 				<?php echo date( 'Y' ); ?> <a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a> - <?php _e( 'All rights reserved', 'odin' ); ?> <br />
-				<?php echo 'Desenvolvido por <a href="http
-				://ernandesfereira.com.br" rel="nofollow" target="_blank"><span class="ernandes">Ernandes Ferreira</span></a>'; ?></span>
+				<?php echo 'Desenvolvido por <a href="http://ernandesferreira.com.br" rel="nofollow" target="_blank"><span class="ernandes">Ernandes Ferreira</span></a>'; ?></span>
 			</div><!-- .site-info -->
 		</footer><!-- #footer -->
 	</div><!-- .container -->

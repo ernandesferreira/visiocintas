@@ -3,6 +3,7 @@
 ============================ ============================ ============================ 
 */
 .single-produto{
+	margin-top: 100px;
 	header{
 		margin-top: 45px;
 		margin-bottom: 45px;
@@ -28,6 +29,7 @@
 }
 .content-single{
 	.btn-success{
+		margin-left: 2%;
 		a{
 			color: $branco;
 			&:hover{
@@ -35,4 +37,7 @@
 			}
 		}
 	}
+}
+.btn-success{
+	margin-left: 2%;
 }

@@ -12,7 +12,7 @@
 
 get_header(); ?>
 	<div class="container">
-		<div id="primary" class="col-xs-12 col-md-12">
+		<div id="primary" class="col-xs-12 col-md-12 content-prod">
 			<main id="main" class="site-main" role="main">
 			<div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
 			    <?php if(function_exists('bcn_display'))

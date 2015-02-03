@@ -55,7 +55,7 @@
 			<div class="col-xs-1 col-md-1"></div>
 			<div class="col-xs-4 col-md-4 container-logo">
 				<div class="logo">
-					<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png">
+					<a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"></a>
 				</div>
 			</div>
 			<div class="col-xs-7 col-md-7 menu-topo">
@@ -94,12 +94,12 @@
 		</div>
 	</div>
 	<?php }else{ ?>
-	<div class="top-menu">
+	<div class="top-menu menu-fase2">
 		<div class="container">
 			<div class="col-xs-1 col-md-1"></div>
 			<div class="col-xs-2 col-md-2 container-logo2">
 				<div class="logo2">
-					<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png">
+					<a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"></a>
 				</div>
 			</div>
 			<div class="col-xs-9 col-md-9 menu-topo">
