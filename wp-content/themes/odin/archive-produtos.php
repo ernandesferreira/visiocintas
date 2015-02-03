@@ -27,7 +27,7 @@ get_header(); ?>
 				<?php
 					if( have_posts() ){
 				?>
-					<div class="lista-prod col-lg-8 col-md-8 col-xs-8 col-sm-8">
+					<div class="lista-prod col-lg-8 col-md-8 col-xs-12 col-sm-12">
 						<ul>
 						<?php
 						while( have_posts() ){
@@ -38,12 +38,12 @@ get_header(); ?>
 								//echo '<pre>' . print_r( $imagem, true ) . '</pre>';								
 							
 							?>
-							<li class="col-lg-3 col-md-3 col-xs-3 col-sm-12">
+							<li class="col-lg-3 col-md-3 col-xs-5 col-sm-4">
 								<a href="<?php echo get_permalink($id); ?>">
 									<div class="item-produto">
 										<div class="imagem-produto">
 										<div class="mascara-prod"></div>
-											<img src="<?php echo $imagem; ?>" width="181">
+											<img class="img-responsive" src="<?php echo $imagem; ?>">
 										</div>
 										<div class="content-produto">
 											<h3> <?php echo $title_produto; ?> </h3>
@@ -55,7 +55,6 @@ get_header(); ?>
 						}
 						// Page navigation.
 						odin_paging_nav();
-						
 					?>
 
 
@@ -63,7 +62,7 @@ get_header(); ?>
 					</div>
 						
 					<?php } ?>
-					<div class="lista-categorias col-lg-4 col-md-4 col-xs-4 col-sm-4">
+					<div class="lista-categorias col-lg-4 col-md-4 col-xs-12 col-sm-12">
 						<?php get_sidebar(); ?>
 					</div>
 			</section>

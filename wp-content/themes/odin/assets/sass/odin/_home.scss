@@ -11,6 +11,10 @@
 	height: 65px;
 	background-color: $verdePrincipal;
 }
+.menu-fase2{
+	position: fixed;
+	  z-index: 999999;
+}
 .container-logo{
 	width: 300px;
 	height: 189px;
@@ -74,6 +78,16 @@
 		color: $verdeSegundario;
 	}
 }
+.navbar-default .navbar-toggle{
+	border-color: #93DF79;
+	background-color: rgb(6, 94, 17);
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #FFF;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background-color: #0BA61E;
+}
 /* ======================================================== ============================ 
 ============================ BANNER ============================ ============================ 
 ============================ ============================ ============================ 
@@ -81,15 +95,18 @@
 .banner{
 	width: 100%;
 	height: 650px;
+	max-height: 650px;
 	//background: url(../images/banner.jpg) no-repeat center top;
 	//background-size: contain;
+}
+.fullscreen-container{
+	max-height: 650px!important;
 }
 /* ======================================================== ============================ 
 ============================ PRODUTOS ============================ =====================
 ============================ ============================ ============================ 
 */
 .container-produtos{
-	height: 250px;
 	margin-bottom: 20px;
 	margin-top: 50px;
 	.lista-produtos{
@@ -121,7 +138,7 @@
 					}
 					&:hover{
 						.hover-prod{							
-							width: 165px;
+							width: 161px;
     						p{
     							display: block;
     							font-size: 18px;
@@ -198,7 +215,7 @@
 */
 .fale-conosco-home{
 	width: 100%;
-	height: 497px;
+	//height: 497px;
 	background-color: $verdeSegundario;
 }
 .conteudo-fale{

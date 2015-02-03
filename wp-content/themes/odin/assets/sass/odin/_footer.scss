@@ -35,7 +35,7 @@
 	}
 }
 .input_textarea{
-	float: right;
+	float: none;
 	margin-top: -184px;
 	margin-right: -20px!important;
 	label{
@@ -54,6 +54,12 @@
 		background-color: $verdeHover;
 		border-color: transparent;
 	}
+}
+.tel{
+	font-size: 35px;  
+	color: #fff;  
+	font-weight: 600;  
+	margin-bottom: 10px;
 }
 
 

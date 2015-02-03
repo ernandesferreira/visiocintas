@@ -15,15 +15,17 @@
 		<footer id="footer" role="contentinfo">
 		<section class="mapa">
 		<div class="container">
-				<div id="main" class="site-main row">
-					<div id="primary" class="col-xs-12 col-md-12">
-						<main id="main" class="site-main" role="main">
-							<div class="conteudo-mapa">
-								<header>
-									<h1> Nossa Localização </h1>
-								</header>
-							</div>
-						</main>
+				<div class="row">
+					<div id="main" class="site-main row">
+						<div id="primary" class="col-xs-12 col-md-12">
+							<main id="main" class="site-main" role="main">
+								<div class="conteudo-mapa">
+									<header>
+										<h1> Nossa Localização </h1>
+									</header>
+								</div>
+							</main>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -50,16 +52,21 @@
 											echo do_shortcode('[gravityform id="1" name="Fale Conosco" title="false" description="false" ajax="true"]');
 										?>
 									</div>
+										
 								</main>
 							</div>
 						</div>
+						<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+											<div class="tel" style="">
+												TEL.: (21) 3761-7272
+											</div>
+										</div>
 					</div>
 			</section>
 			<div class="site-info">
 				<span class="text-footer">&copy; 
 				<?php echo date( 'Y' ); ?> <a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a> - <?php _e( 'All rights reserved', 'odin' ); ?> <br />
-				<?php echo 'Desenvolvido por <a href="http
-				://ernandesfereira.com.br" rel="nofollow" target="_blank"><span class="ernandes">Ernandes Ferreira</span></a>'; ?></span>
+				<?php echo 'Desenvolvido por <a href="http://ernandesferreira.com.br" rel="nofollow" target="_blank"><span class="ernandes">Ernandes Ferreira</span></a>'; ?></span>
 			</div><!-- .site-info -->
 		</footer><!-- #footer -->
 	</div><!-- .container -->
